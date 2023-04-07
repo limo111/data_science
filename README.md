@@ -1,4 +1,4 @@
-# data_science
+# Data_Science
 
 This repository is for data science
 
