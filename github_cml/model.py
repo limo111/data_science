@@ -46,6 +46,7 @@ def plo_model(mo):
     Saves the model architecture as an image file.
     """
     plot_model(mo, to_file='model.png', show_shapes=True)
+    
 
 # Load MNIST dataset and preprocess it
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
